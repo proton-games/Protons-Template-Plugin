@@ -1,0 +1,15 @@
+{
+  "id": "protons_geckolib",
+  "supportedversions": [
+    202400199999,
+    2024001
+  ],
+  "weight": 0,
+  "javaplugin": "net.proton.geckolib.DemoJavaPlugin,",
+  "info": {
+    "name": "Proton's GeckoLib Plugin",
+    "version": "1.0",
+    "description": "This adds GeckoLib Support MCreator.",
+    "author": "Proton"
+  }
+}
